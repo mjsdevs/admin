@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/mjs-community/admin/master/brand/logo-with-description.svg" />
 </p>
 
-<p align=center> Here you can find the admin related discurssions and important files. </p>
+<h4 align=center> Here you can find the admin related discurssions and important files. </h4>
 
 ## What is MJS?
 (WIP)
