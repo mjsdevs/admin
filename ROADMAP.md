@@ -52,7 +52,13 @@
 * redux-saga
 * context api
 
-## Devops
+## Cloud
 * AWS
+* Google Cloud
+* Digital Ocean
+
+## DevOps Tools
 * Jenkins
+* Travis CI
 * Docker
+* jMeter
