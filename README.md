@@ -12,7 +12,7 @@ We are a group of javascript programmers, with different levels of experience. O
 You can [join our Discord Server](https://discord.gg/HnZE7ub)
 
 ## Our Rules
-See [RULES.md](https://github.com/mjs-community/admin/blob/master/RULES.md)
+See [RULES.md](https://github.com/mjs-community/admin/blob/main/RULES.md)
 
 ## Content Roadmap
 (WIP)
