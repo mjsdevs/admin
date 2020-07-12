@@ -5,21 +5,21 @@
 
 <h2 align=center> Roadmap | Season 0 </h2>
 
-### Typescript
+### Introduções
 - [x] **Typescript 101**
 _status: `realizado`_
-
-- [ ] **Hacks & Tips**
-_status: `sugestão`_
-
-### Machine Learning
-- [x] Introdução
-_status: `confirmado`</em>_
 _local: `google meet`_
 
-### Programação Reativa e Funcional
-- [ ] RxJS
-_status: `sugestão`_
+- [x] **Introdução a Machine Learning**
+_status: `realizado`_
+_local: `google meet`_
+
+- [ ] RxJS e Observables
+_status: `sugerido`_
 
 - [ ] Cycle.js 101
-_status: `sugestão`_
+_status: `sugerido`_
+
+### Hacks
+- [ ] **Usando tipos avançados com typescript**
+_status: `sugerido`_
