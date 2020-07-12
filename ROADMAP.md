@@ -5,6 +5,8 @@
 
 <h2 align=center> Roadmap | Season 0 </h2>
 
+### Tutoriais
+
 ### Introduções
 - [x] **Typescript 101**
 _status: `realizado`_
@@ -23,3 +25,7 @@ _status: `sugerido`_
 ### Hacks
 - [ ] **Usando tipos avançados com typescript**
 _status: `sugerido`_
+
+### Experimentos
+
+### Time-to-change
