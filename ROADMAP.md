@@ -1,6 +1,6 @@
 <p align=center>
   <img
-    src="https://raw.githubusercontent.com/mjs-community/admin/master/brand/logo-horizontal.svg?" />
+    src="https://raw.githubusercontent.com/mjs-community/admin/main/brand/logo-horizontal.svg?" />
 </p>
 
 <h2 align=center> Roadmap | Season 0 </h2>
