@@ -13,7 +13,7 @@ _status: `realizado`_
 _status: `sugestão`_
 
 ### Machine Learning
-- [ ] Introdução
+- [x] Introdução
 _status: `confirmado`</em>_
 _local: `google meet`_
 
