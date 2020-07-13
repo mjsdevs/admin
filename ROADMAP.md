@@ -19,9 +19,6 @@ _local: `google meet`_
 - [ ] RxJS e Observables
 _status: `sugerido`_
 
-- [ ] Cycle.js 101
-_status: `sugerido`_
-
 ### Hacks
 - [ ] **Usando tipos avançados com typescript**
 _status: `sugerido`_
