@@ -19,6 +19,11 @@ _local: `google meet`_
 - [ ] RxJS e Observables
 _status: `sugerido`_
 
+- [ ] Buffers e Streams
+_status: `confirmado`_
+_local: `google meet`_
+
+
 ### Hacks
 - [ ] **Usando tipos avançados com typescript**
 _status: `sugerido`_
