@@ -16,10 +16,7 @@ _local: `google meet`_
 _status: `realizado`_
 _local: `google meet`_
 
-- [ ] RxJS e Observables
-_status: `sugerido`_
-
-- [ ] Buffers e Streams
+- [ ] Streams e ReactiveX
 _status: `confirmado`_
 _local: `google meet`_
 
