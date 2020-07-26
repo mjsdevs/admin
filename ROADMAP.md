@@ -16,7 +16,7 @@ _local: `google meet`_
 _status: `realizado`_
 _local: `google meet`_
 
-- [ ] Streams e ReactiveX
+- [x] Streams e ReactiveX
 _status: `confirmado`_
 _local: `google meet`_
 _slides: [link](https://docs.google.com/presentation/d/1s4bHnIl47NaKQmASKhHrgMJc8HO2KPLZ6upezmECmQw/edit?usp=sharing)_
