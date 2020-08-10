@@ -1,4 +1,7 @@
 # Manifesto MJS
+
+## EN
+
 We are a community of developers who love coding and love teaching. We create bridges and destroy walls. We connect people to opportunities. Because of this work we have come to value:
 
 - **Learning and Teaching** to ensure we are constantly improving ourselves and creating content;
@@ -10,9 +13,9 @@ We are a community of developers who love coding and love teaching. We create br
 We are MJS.
 I am because we are.
 
----
+## PT
 
-Somos uma comunidade de pessoas desenvolvedoras que amam criar codar e ensinar. Nõs criamos pontes e destruimos paredes; conectamos pessoas à oportunidades. Por causa disso nós valorizamos:
+Somos uma comunidade de pessoas desenvolvedoras que amam codar e ensinar. Nós criamos pontes e destruimos paredes; conectamos pessoas à oportunidades. Por causa disso nós valorizamos:
 
 - **Aprender e Ensinar**, para garantir que estamos constatemente melhorando e criando conteúdo;
 - **Software Livre**, para garantir que o resultado do nosso trabalho ficará para todas as pessoas de todos os tempos;
