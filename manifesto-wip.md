@@ -12,7 +12,7 @@ I am because we are.
 
 ---
 
-Somos uma comunidade de pessoas desenvolvedora que amam criar codar e ensinar. Nõs criamos pontes e destruimos paredes; conectamos pessoas à oportunidades. Por causa disso nós valorizamos:
+Somos uma comunidade de pessoas desenvolvedoras que amam criar codar e ensinar. Nõs criamos pontes e destruimos paredes; conectamos pessoas à oportunidades. Por causa disso nós valorizamos:
 
 - **Aprender e Ensinar**, para garantir que estamos constatemente melhorando e criando conteúdo;
 - **Software Livre**, para garantir que o resultado do nosso trabalho ficará para todas as pessoas de todos os tempos;
