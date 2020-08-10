@@ -7,6 +7,9 @@ We are a community of developers who love coding and love teaching. We create br
 **Diversity and Inclusivity** to ensure everyone is wellcome to be part of our community;
 **Decentralization** to ensure the community are not limited to individuals.
 
+We are MJS.
+I am because we are.
+
 ---
 
 Somos uma comunidade de pessoas desenvolvedora que amam criar codar e ensinar. Nõs criamos pontes e destruimos paredes; conectamos pessoas à oportunidades. Por causa disso nós valorizamos:
@@ -16,3 +19,6 @@ Somos uma comunidade de pessoas desenvolvedora que amam criar codar e ensinar. N
 **Incentivo**, para garantir que novos desenvolvedores e membros da MJS sentem-se cofiantes em fazer qualquer coisa;
 **Diversidade e Inclusão**, para garantir que todos são bem víndos para fazer parte da comunidade;
 **Descentralização**, para garantir que a comunidade não se resume à indivíduos.
+
+Nós somos MJS.
+Eu sou o que nós somos.
