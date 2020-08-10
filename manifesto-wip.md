@@ -1,5 +1,5 @@
 # Manifesto MJS
-We are a community of developers who love coding and love teaching. We create bridges and destroy walls. We connect people to opportunities.Because of this work we have come to value:
+We are a community of developers who love coding and love teaching. We create bridges and destroy walls. We connect people to opportunities. Because of this work we have come to value:
 
 - **Learning and Teaching** to ensure we are constantly improving ourselves and creating content;
 - **Free software** to ensure the result of our work is available to all people for all time;
