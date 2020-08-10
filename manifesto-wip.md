@@ -6,7 +6,7 @@ We are a community of developers who love coding and love teaching. We create br
 
 - **Learning and Teaching** to ensure we are constantly improving ourselves and creating content;
 - **Free software** to ensure the result of our work is available to all people for all time;
-- **Encouraging** to ensure new developers and MJS members fell confident to do everything;
+- **Encouraging** to ensure new developers and MJS members feel confident to do everything;
 - **Diversity and Inclusivity** to ensure everyone is wellcome to be part of our community;
 - **Decentralization** to ensure the community are not limited to individuals.
 
