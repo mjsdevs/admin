@@ -11,8 +11,8 @@ Nós somos um grupo de programadores javascript, com diferentes níveis de exper
 ## Como fazer parte?
 Você pode [entrar no nosso servidor do Discord](https://discord.gg/HnZE7ub) e participar das calls todos os sábados, das 20h as 21h. Caso queira, pode também enviar sugestões de talks utilizando os templates desse repositório.
 
-## Regras
-Veja [RULES.md](https://github.com/mjs-community/admin/blob/main/RULES.md)
+## Manifesto
+Veja o nosso [Manifesto](https://github.com/mjs-community/admin/blob/main/MANIFESTO.md) e entenda os valores da MJS.
 
 ## Roadmap
 Você encontra o roadmap de temas no [roadmap](https://github.com/mjs-community/admin/blob/main/ROADMAP.md)
