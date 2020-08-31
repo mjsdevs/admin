@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/mjs-community/admin/main/brand/logo-horizontal.svg?" />
 </p>
 
-<h2 align=center> Roadmap | Season 0 </h2>
+<h2 align=center> Roadmap | Mês 0 </h2>
 
 ### Tutoriais
 
