@@ -25,3 +25,5 @@ Somos uma comunidade de pessoas desenvolvedoras que amam codar e ensinar. Nós c
 
 Nós somos MJS.
 Eu sou o que nós somos.
+
+> Com inspiração do [Manifesto KDE](https://manifesto.kde.org/)
