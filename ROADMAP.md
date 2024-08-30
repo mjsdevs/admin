@@ -29,3 +29,6 @@ _status: `sugerido`_
 ### Experimentos
 
 ### Time-to-change
+
+### Referencias
+- https://x-team.com/blog/write-a-great-tech-talk
