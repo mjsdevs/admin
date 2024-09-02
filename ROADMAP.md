@@ -18,7 +18,7 @@ Após uma fundação sólida, possivelmente já existirá uma série iniciativas
 
 
 #### Nível 4: Futuro
-Após esse momento, é virtualmente impossível entender o que pode acontecer. O máximo que pode-se dizer é que a comunidade será maior que seus indivíduos e dada a filosofia do software livre, será imortalizada - ainda que precise resurgir em versões melhores.
+Após esse momento, é virtualmente impossível entender o que pode acontecer. O máximo que pode-se dizer é que a comunidade será maior que seus indivíduos e dada as filosofia do software livre e aberto - convergentes nesse ponto - será imortalizada: ainda que precise resurgir em versões melhores, é algo que fará pelo menos parte de alguma história.
 
 
 ### MJS Sync (Arquivo)
