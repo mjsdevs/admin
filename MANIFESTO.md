@@ -19,8 +19,8 @@ Somos uma comunidade. Criamos pontes, conectamos pessoas e encontramos oportunid
 
 - **Aprender e Ensinar**, para garantir que estamos constatemente melhorando e criando conteúdo;
 - **Software Livre**, para garantir que o resultado do nosso trabalho ficará para todas as pessoas de todos os tempos;
-- **Incentivo**, para garantir que novos desenvolvedores e membros da MJS sintem-se cofiantes em fazer qualquer coisa;
-- **Diversidade e Inclusão**, para garantir que todos são bem víndos para fazer parte da comunidade;
+- **Incentivo**, para garantir que novos devs, membros e membras da MJS sintam-se cofiantes em fazer qualquer coisa;
+- **Diversidade e Inclusão**, para garantir que todas pessoas são bem vindas para fazer parte da comunidade;
 - **Descentralização**, para garantir que a comunidade não se resume à indivíduos.
 
 Nós somos MJS.
